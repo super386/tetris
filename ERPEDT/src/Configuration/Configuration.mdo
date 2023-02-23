@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fae83913-3b07-493d-9a75-09e5fc4c359d">
+  <name>ERP_EDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>ERP EDT</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="29b90d78-4208-4876-a31c-4c8105d77581"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="52c57395-4ea0-4d20-864c-4ade079d0601"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="829d76a7-fd04-4a60-aa7d-7abb1675d897"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="3b508f50-cf35-412f-9a31-04b1136a6230"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6622c0dc-3e42-4933-b667-ff395dc0f632"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="3bddbff1-3925-4325-95c4-626715449b7d"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="fed6289c-a287-4e87-b817-7c71234d18b3"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="7a83708d-2c81-430b-b0a9-33147bcd77c4">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <roles>Role.Роль1</roles>
+  <catalogs>Catalog.Справочник1</catalogs>
+</mdclass:Configuration>
